@@ -1,4 +1,4 @@
-import resume from "../assets/Pratikshaa.pdf";
+import resume from "../assets/Prateeksha_Pandey_Resume.pdf";
 import profile from "/images/MineImage.jpeg";
 
 function Home() {
