@@ -20,6 +20,7 @@ function Projects() {
               title="Decentralized NFT Marketplace – Blockchain Based "
               description="Build a decentralized NFT Marketplace enabling artists to mint, list, and trade digital artwork securely."
               tech="Java, Spring Boot, Hibernate, MySQL, React, blockchain tools"
+              github="https://github.com/prateekshapandey643-glitch/A-Decentralized-NFT-MarketPlace"
              
             />
 
